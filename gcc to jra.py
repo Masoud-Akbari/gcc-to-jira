@@ -232,4 +232,5 @@ def main():
     print(f"\nعملیات به پایان رسید. تعداد تیکت‌های جدید پردازش شده: {new_tickets_count}.")
 
 if __name__ == "__main__":
+
     main()
